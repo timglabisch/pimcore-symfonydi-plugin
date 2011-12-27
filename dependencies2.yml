@@ -1,5 +1,0 @@
-parameters:
-    hello_world.class: Symfonydic_Testclass_Foo
-services:
-    hello2:
-        class:          %hello_world.class%
