@@ -1,0 +1,5 @@
+parameters:
+    hello_world.class: Symfonydic_Testclass_Foo
+services:
+    hello:
+        class:          %hello_world.class%
